@@ -7,3 +7,16 @@ for (var i = 0; i < titleAdd.length; i++) {
   titleAdd[i].style.color = 'green';
   
 }
+var li=document.getElementsByClassName('list-group-item');
+for (var i = 0; i < li.length; i++) {
+  li[i].style.fontWeight = 'bold';
+  li[i].style.color = 'red';
+}
+  li[2].style.backgroundColor = 'green';
+
+
+
+
+
+
+
