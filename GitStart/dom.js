@@ -15,8 +15,4 @@ for (var i = 0; i < li.length; i++) {
   li[2].style.backgroundColor = 'green';
 
 
-
-
-
-
-
+var li = document.getElementsByTagName('li'); 
